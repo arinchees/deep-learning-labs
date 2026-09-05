@@ -1,0 +1,19 @@
+.DS_Store
+.idea/
+.vscode/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Datasets / checkpoints / generated media
+data/
+datasets/
+checkpoints/
+weights/
+runs/
+*.pt
+*.pth
+*.mp4
+*.zip
